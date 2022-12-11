@@ -43,6 +43,7 @@ dependencies:
   flutter_custom_buttons:
     git:
       url: https://github.com/xmgrex/flutter_custom_buttons
+  
 
 dev_dependencies:
   flutter_test:

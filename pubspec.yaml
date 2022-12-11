@@ -10,7 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
+  #https://pub.dev/packages/flutter_riverpod
+  flutter_riverpod: ^2.1.1
+
   #https://pub.dev/packages/adaptive_dialog/install
   adaptive_dialog: ^1.8.0+1
 

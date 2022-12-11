@@ -85,6 +85,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
+  currency_formatter:
+    dependency: transitive
+    description:
+      name: currency_formatter
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   dynamic_color:
     dependency: transitive
     description:
@@ -155,6 +162,13 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
+  flutter_riverpod:
+    dependency: transitive
+    description:
+      name: flutter_riverpod
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.1"
   flutter_scale_tap:
     dependency: transitive
     description:
@@ -167,6 +181,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_utils:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: cf0a286e86f30e040a46356ce3ee5e8307709b54
+      url: "https://github.com/xmgrex/flutter_utils"
+    source: git
+    version: "0.0.1"
   http:
     dependency: transitive
     description:
@@ -188,6 +211,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.17.0"
   lints:
     dependency: transitive
     description:
@@ -209,6 +239,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.0"
+  logging:
+    dependency: transitive
+    description:
+      name: logging
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.0"
   macos_ui:
     dependency: transitive
     description:
@@ -335,6 +372,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.2.4"
+  riverpod:
+    dependency: transitive
+    description:
+      name: riverpod
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.1"
   rxdart:
     dependency: transitive
     description:
@@ -342,6 +386,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.27.7"
+  simple_logger:
+    dependency: transitive
+    description:
+      name: simple_logger
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.9.0+1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -375,6 +426,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.10.0"
+  state_notifier:
+    dependency: transitive
+    description:
+      name: state_notifier
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.2+1"
   stream_channel:
     dependency: transitive
     description:
@@ -417,6 +475,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.3.1"
+  universal_io:
+    dependency: transitive
+    description:
+      name: universal_io
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.4"
   uuid:
     dependency: transitive
     description:
